@@ -1,0 +1,6 @@
+{
+  "id": "scorebridge",
+  "name": "ScoreBridge",
+  "version": "1.0.1",
+  "main": "com.scorebridge.ScoreBridgePlugin"
+}
